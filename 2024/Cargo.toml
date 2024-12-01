@@ -1,0 +1,6 @@
+bin = [
+    { name = "day1", path = "day1/main.rs" },
+]
+
+[package]
+name = "advent_of_code_2024"
